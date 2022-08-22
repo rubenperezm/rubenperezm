@@ -12,5 +12,5 @@ I have my dog Cobi as my profile pic. He's a good boy.
 ##
 
 ### Contact me
-<a href="https://linkedin.com/in/rubenperezmercado" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rubén-informational"></a>
-<a href="mailto:rubenpermerc+contact@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-rubenpermerc%40gmail.com-orange"></a>
+[<img src="https://img.shields.io/badge/LinkedIn-Rubén-informational">](https://linkedin.com/in/rubenperezmercado)
+[<img src="https://img.shields.io/badge/Email-rubenpermerc%40gmail.com-orange">](mailto:rubenpermerc+contact@gmail.com)
