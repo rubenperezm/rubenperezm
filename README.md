@@ -2,7 +2,7 @@
 
 I'm a CS student at University of Cádiz.
 
-##
+I have my dog Cobi as my profile pic. He's a good boy.
 
 ### My stats
 [![rubenperezm's github stats](https://github-readme-stats.vercel.app/api?username=rubenperezm&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
