@@ -3,13 +3,6 @@
 I'm a CS student at University of Cádiz.
 ##
 
-### My stats
 [![rubenperezm's github stats](https://github-readme-stats.vercel.app/api?username=rubenperezm&hide=issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rubenperezm.rubenperezm)
-
-##
-
-### Contact me
-[<img src="https://img.shields.io/badge/LinkedIn-Rubén-informational">](https://linkedin.com/in/rubenperezmercado)
-[<img src="https://img.shields.io/badge/Email-rubenpermerc%40gmail.com-orange">](mailto:rubenpermerc+contact@gmail.com)
+![](https://komarev.com/ghpvc/?username=rubenperezm&color=brightgreen&style=for-the-badge)
